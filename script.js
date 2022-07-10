@@ -19,11 +19,11 @@ const questions = [
     },
 
     {
-        question: "Who was the first President of USA ?",
-        optionA: "Donald Trump",
-        optionB: "Barack Obama",
-        optionC: "Abraham Lincoln",
-        optionD: "George Washington",
+        question: "Who was the first President of India ?",
+        optionA: "Indira Gandhi",
+        optionB: "Pratibha Patil",
+        optionC: "Ramnath Kovid",
+        optionD: "Rajendra Prasad",
         correctOption: "optionD"
     },
 
@@ -37,7 +37,7 @@ const questions = [
     },
 
     {
-        question: "How manay hours can be found in a day ?",
+        question: "How many hours in a day ?",
         optionA: "30 hours",
         optionB: "38 hours",
         optionC: "48 hours",
@@ -64,12 +64,12 @@ const questions = [
     },
 
     {
-        question: "Which country is the largest in the world ?",
-        optionA: "Russia",
-        optionB: "Canada",
-        optionC: "Africa",
-        optionD: "Egypt",
-        correctOption: "optionA"
+        question: "Which state is the largest in area in the India ?",
+        optionA: "Madhya Pradesh",
+        optionB: "Rajasthan",
+        optionC: "Uttar Pradesh",
+        optionD: "Delhi",
+        correctOption: "optionB"
     },
 
     {
