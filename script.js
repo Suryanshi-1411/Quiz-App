@@ -187,7 +187,7 @@ const questions = [
         optionB: "Seven",
         optionC: "Nine",
         optionD: "Eight",
-        correctOption: "optionD"
+        correctOption: "optionB"
     },
 
     {
